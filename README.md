@@ -1,6 +1,9 @@
 ## Hi there 👋
 > Thank you for visiting my GitHub.
 
+### You can see my portfolio [here](https://oval-parcel-d20.notion.site/Jung-YoonSung-2ec234dc409b4c59ba5014d338e6e0fb)
+
+
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://unluckyjung.github.io/) 
 
 ## Yoonsung Jung 

@@ -17,6 +17,7 @@
 ## Motto
 - 기억은 기록을 이기지 못한다.
 - 귀찮은것과 어려운것을 구별하자.
+- 어릴때 보낸 시간에는 아주 강력한 시간의 복리 효과가 있다.
 
 ## Cards
 
@@ -28,27 +29,3 @@
 
 
 
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
-
-
-
-
-
-
-
-<!--
-**UnluckyJung/UnluckyJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
